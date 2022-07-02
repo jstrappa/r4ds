@@ -61,7 +61,7 @@ Usemos nuestro primer gráfico para responder una pregunta: ¿los automóviles c
 
 ### El _data frame_ `millas`
 
-Puedes poner a prueba tu respuesta empleando el _data frame_ `millas` que se encuentra en el paquete **datos** (`datos::millas`). Un _data frame_ es una colección rectangular de variables (columnas) y observaciones (filas). El _data frame_ `millas` contiene observaciones para 38 modelos de automóviles recopiladas por la Agencia de Protección Ambiental de los EE. UU.
+Puedes poner a prueba tu respuesta empleando el _data frame_ `millas` que se encuentra en el paquete **datos** (conocido como `datos::millas`). Un _data frame_ es una colección rectangular de variables (columnas) y observaciones (filas). El _data frame_ `millas` contiene observaciones para 38 modelos de automóviles recopiladas por la Agencia de Protección Ambiental de los EE. UU.
 
 ```{r}
 millas

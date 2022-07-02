@@ -459,7 +459,7 @@ Vemos un patrón fuerte en el número de vuelos de los sábados. Esto es tranqui
 
 Solo hemos dado una pincelada sobre el tema de modelos, pero es de esperar que hayas adquirido algunas herramientas simples, pero de uso general que puedes usar para mejorar tus propios análisis. ¡Está bien empezar de manera simple! Como has visto, incluso modelos muy simples pueden significar una gran diferencia en tu habilidad para desentrañar las interacciones o pueden generar un incremento dramático en tu habilidad para desentrañar las interacciones.
 
-Estos capítulos de modelos son aún más dogmáticos que el resto del libro. Yo enfoco el modelamiento desde una perspectiva diferente a la mayoría, y hay relativamente poco espacio dedicado a ello. El modelamiento realmente requiere un libro completo, así que recomiendo que leas alguno de estos 3 libros:
+Estos capítulos de modelos son aún más dogmáticos que el resto del libro. Yo enfoco el modelado desde una perspectiva diferente a la mayoría, y hay relativamente poco espacio dedicado a ello. El modelado realmente requiere un libro completo, así que recomiendo que leas alguno de estos 3 libros:
 
 * *Statistical Modeling: A Fresh Approach* by Danny Kaplan,
   <http://project-mosaic-books.com/?page_id=13>. Este libro provee
@@ -471,7 +471,7 @@ Estos capítulos de modelos son aún más dogmáticos que el resto del libro. Yo
 * *An Introduction to Statistical Learning* by Gareth James, Daniela Witten, 
   Trevor Hastie, and Robert Tibshirani, <http://www-bcf.usc.edu/~gareth/ISL/> 
   (Disponible en línea gratis). Este libro presenta una moderna familia de 
-  técnicas de modelamiento colectivamente conocidas como aprendizaje estadístico.
+  técnicas de modelado colectivamente conocidas como aprendizaje estadístico.
   Para una más profunda comprensión de la matemática detrás de los modelos, lee el clásico
   *Elements of Statistical Learning* por Trevor Hastie, Robert Tibshirani, y
   Jerome Friedman, <http://statweb.stanford.edu/~tibs/ElemStatLearn/> (También

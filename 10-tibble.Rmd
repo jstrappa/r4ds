@@ -142,7 +142,7 @@ Algunas funciones más antiguas no funcionan con los tibbles. Si te encuentras e
 class(as.data.frame(tb))
 ```
 
-La principal razón de que algunas funciones previas no funcionen con tibbles es la función `[`. En este libro no usamos mucho `[` porque `dplyr::filter()` y `dplyr::select()` resuelven los mismos problemas con un código más claro (aprenderás un poco sobre ello en el capítulo sobre [subjoncuntos de vectores](#vector-subsetting, subdivisión de vectores)). Con los data frames de R base, `[` a veces devuelve un data frame y a veces devuelve un vector. Con tibbles, `[` siempre devuelve otro tibble.
+La principal razón de que algunas funciones previas no funcionen con tibbles es la función `[`. En este libro no usamos mucho `[` porque `dplyr::filter()` y `dplyr::select()` resuelven los mismos problemas con un código más claro (aprenderás un poco sobre ello en el capítulo sobre [subconjuntos de vectores](#vector-subsetting)). Con los data frames de R base, `[` a veces devuelve un data frame y a veces devuelve un vector. Con tibbles, `[` siempre devuelve otro tibble.
 
 ## Ejercicios
 
